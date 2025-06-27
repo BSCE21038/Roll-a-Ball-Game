@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 82358c4781a62084985ec48e50160094
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 842, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icons_Sprit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185baeb951a8eb74f81e561b348b62a9
+      internalID: -440619896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_Sprit_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848314f2de4db640b97dec938530cec
+      internalID: 374654030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_Sprit_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b08a8b66ada7a47ae7fbf744104124
+      internalID: 1095274636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_Sprit_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e65a15ff02a9c04b9f0769c7e421424
+      internalID: 142617093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_Sprit_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ba0c9f8a5b8942a6e07a5f10724eb
+      internalID: 1036756666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_Sprit_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968f3a17debf0046bea64401f049634
+      internalID: -1310358204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icons_Sprit_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64475c82ecb974b9ed9390c8daac7f
+      internalID: 94481131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -469, y: 56.5}
+      - {x: -486, y: 30.5}
+      - {x: -486, y: -33.5}
+      - {x: -466, y: -56.5}
+      - {x: -378, y: -56.5}
+      - {x: -371, y: -53.5}
+      - {x: -371, y: 56.5}
+    - - {x: -328, y: 56.5}
+      - {x: -343, y: 55.5}
+      - {x: -344, y: -53.5}
+      - {x: -338, y: -56.5}
+      - {x: -228, y: -56.5}
+      - {x: -229, y: 55.5}
+      - {x: -252, y: 56.5}
+    - - {x: -190, y: 56.5}
+      - {x: -202, y: 56.5}
+      - {x: -201, y: -52.5}
+      - {x: -183, y: -56.5}
+      - {x: -103, y: -56.5}
+      - {x: -87, y: -56.5}
+      - {x: -84, y: 56.5}
+      - {x: -111, y: 56.5}
+    - - {x: -32, y: 56.5}
+      - {x: -58, y: 36.5}
+      - {x: -58, y: -25.5}
+      - {x: -56, y: -56.5}
+      - {x: 37, y: -56.5}
+      - {x: 60, y: -56.5}
+      - {x: 58, y: 28.5}
+      - {x: 58, y: 56.5}
+    - - {x: 88, y: 56.5}
+      - {x: 85, y: 55.5}
+      - {x: 85, y: -55.5}
+      - {x: 87, y: -56.5}
+      - {x: 182, y: -56.5}
+      - {x: 205, y: -55.5}
+      - {x: 201, y: 30.5}
+      - {x: 200, y: 56.5}
+    - - {x: 249, y: 56.5}
+      - {x: 230, y: 56.5}
+      - {x: 228, y: -31.5}
+      - {x: 231, y: -56.5}
+      - {x: 332, y: -56.5}
+      - {x: 344, y: -51.5}
+      - {x: 341, y: 56.5}
+      - {x: 316, y: 56.5}
+    - - {x: 398, y: 56.5}
+      - {x: 372, y: 56.5}
+      - {x: 371, y: -24.5}
+      - {x: 371, y: -56.5}
+      - {x: 471, y: -56.5}
+      - {x: 486, y: -56.5}
+      - {x: 486, y: 24.5}
+      - {x: 486, y: 56.5}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icons_Sprit_0: -440619896
+      Icons_Sprit_1: 374654030
+      Icons_Sprit_2: 1095274636
+      Icons_Sprit_3: 142617093
+      Icons_Sprit_4: 1036756666
+      Icons_Sprit_5: -1310358204
+      Icons_Sprit_6: 94481131
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
